@@ -1,22 +1,22 @@
 # Trains
-Android Labs (mess)
-for the needs of android studio laboratories:
-Shooting Game with Trains
-Class
-Explicit intention-transition between activities
-Interface
-Anonymous classes, e.g. button handling
-Listeners
-Butron, textView, Imageview
-Activity life cycle methods
-The handler, post, postDelayed class
-Creating threads
-Toast
-ListView
-ArrayAdapter and custom implementation
-ActivityResultLauncher
-Implicit intention, e.g. taking a photo with a camera
-Sql
-Fragments Drawer and scrolling screen.
-Android file system
-Determining the position of the telephone. GPS system.
+Android Labs (mess)<br><br>
+for the needs of android studio laboratories:<br>
+Shooting Game with Trains<br>
+Class<br>
+Explicit intention-transition between activities<br>
+Interface<br>
+Anonymous classes, e.g. button handling<br>
+Listeners<br>
+Butron, textView, Imageview<br>
+Activity life cycle methods<br>
+The handler, post, postDelayed class<br>
+Creating threads<br>
+Toast<br>
+ListView<br>
+ArrayAdapter and custom implementation<br>
+ActivityResultLauncher<br>
+Implicit intention, e.g. taking a photo with a camera<br>
+Sql<br>
+Fragments Drawer and scrolling screen.<br>
+Android file system<br>
+Determining the position of the telephone. GPS system.<br>
