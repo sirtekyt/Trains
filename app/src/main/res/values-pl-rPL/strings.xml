@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trains</string>
+    <string name="nav_open">Otwórz</string>
+    <string name="nav_close">Zamknij</string>
+</resources>
